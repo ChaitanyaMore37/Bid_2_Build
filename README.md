@@ -1,2 +1,2 @@
 # Bid_2_Build
-Hackathon
+This is our first Ai Hackathon
